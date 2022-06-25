@@ -7,6 +7,8 @@ layout: home
 
 # Hei på deg
 
+## Ja vi liker
+
 Dette er en test!
 
 > Fugler er bare droner med fjær!
