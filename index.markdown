@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Christoffer Kleven Berg
+
+Hei og velkommen til hjemmesiden min. Her skal jeg legge ut innlegg om hva jeg driver med.
