@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Hei
+# Hei på deg
 
 Dette er en test!
 
