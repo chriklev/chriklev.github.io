@@ -27,8 +27,8 @@ url: "https://ChristofferKB.com" # the base hostname & protocol for your site, e
 github_username: chriklev
 
 # Build settings
-# theme: jekyll-theme-time-machine
-remote_theme: jekyll/minima
+theme: jekyll-theme-time-machine
+# remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
