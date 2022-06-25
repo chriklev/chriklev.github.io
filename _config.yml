@@ -27,8 +27,8 @@ url: "https://ChristofferKB.com" # the base hostname & protocol for your site, e
 github_username: chriklev
 
 # Build settings
-# theme: jekyll-theme-time-machine
-remote_theme: benbalter/retlab
+theme: jekyll-theme-leaf
+# remote_theme: jekyll-theme-leaf
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -51,5 +51,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-time-machine
