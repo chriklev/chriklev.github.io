@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Båt! 2022"
+date: 2022-06-26
+categories: båt!
+---
+
+# Båt! 2022
+
+Det er juni 2022 og tre venner diskuterer hvem som kan lage den beste radiokontrollerte båten. Overraskende nok kommer de ikke frem til en konklusjon og begynner derfor å planlegge en konkurranse med en en uvurderlig premie. Nemlig retten til å snakke med de andre om radiokontrollerte båter i en belærende tone.
+
+På grunn av noens evne og interesse i å utnytte smutthull måtte reglene planlegges nøye.
+
+### Regler:
+
+1. Alle deltagerne skal bruke samme batteri og motor.
+2. Maksimal lengde og bredde på båten er 1 meter.
+3. Skroget må være hjemmelaget.
+4. All fremdrift må komme fra motoren.
+5. Båten må starte i vannet.
+6. Kan ikke ha noe oppspart energi utenom batteriet.
+7. Båten kan ikke fly.
+8. Ikke vær kjedelig.
+9. Ikke vær teit.
+10. Det oppfordres til å gjøre kule ting.
+11. Erik er fritatt fra regel nr. 2 fordi han er vanskelig og trenger å kompensere for andre mangler.
+12. Sponsorer oppfordres.
+13. Båten kan ikke legge igjen miljøskadelig materiale.
+14. Man skal være behjelpelig i planlegging og byggeprosessen. Hvis noen f. eks. har en Creality Ender-3 V2 3D-printer skal den disponeres til bruk for alle.
+
+Reglene er designet blant annet for å hindre at den som er villig til å bruke mest penger vinner, og heller sette fokus på smart og interessant båtdesign. Samtidig vil reglene hindre teit (se regel nr. 9) og usportslig oppførsel.
+
+Ettersom ingen av oss faktisk har erfaring med radiokontrollerte fartøy, utenom YouTube videoer, så blir første steg å lese oss opp. Deretter bli enige om hvilke felles batterier og motorer vi skal bestille.
