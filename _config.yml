@@ -30,9 +30,9 @@ github_username: chriklev
 
 # Build settings
 # theme: minima
-remote_theme: daattali/beautiful-jekyll
+# remote_theme: daattali/beautiful-jekyll
 # remote_theme: cotes2020/jekyll-theme-chirpy
-# remote_theme: daviddarnes/garth
+remote_theme: TaylanTatli/Ramme
 # remote_theme: abhinavs/moonwalk
 plugins:
   - jekyll-feed
