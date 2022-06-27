@@ -32,8 +32,9 @@ github_username: chriklev
 # theme: minima
 # remote_theme: daattali/beautiful-jekyll
 # remote_theme: cotes2020/jekyll-theme-chirpy
-remote_theme: TaylanTatli/Ramme
+# remote_theme: TaylanTatli/Ramme
 # remote_theme: abhinavs/moonwalk
+remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
