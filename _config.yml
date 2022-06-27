@@ -33,7 +33,7 @@ github_username: chriklev
 # remote_theme: daattali/beautiful-jekyll
 # remote_theme: cotes2020/jekyll-theme-chirpy
 # remote_theme: daviddarnes/garth
-remote_theme: P0WEX/Gesko
+remote_theme: abhinavs/moonwalk
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
