@@ -1,6 +1,6 @@
-- title: Home
+- title: Hjem
   url: /
-- title: About
-  url: /about.md
-- title: Archive
+- title: Om meg
+  url: /about
+- title: Arkiv
   url: /archive.md
