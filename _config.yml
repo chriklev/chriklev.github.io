@@ -35,7 +35,8 @@ github_username: chriklev
 # remote_theme: TaylanTatli/Ramme
 # remote_theme: abhinavs/moonwalk
 # remote_theme: riggraz/no-style-please
-remote_theme: cotes2020/jekyll-theme-chirpy
+# remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: cyevgeniy/jekyll-true-minimal
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
