@@ -30,14 +30,14 @@ github_username: chriklev
 
 # Build settings
 # theme: minima
-# remote_theme: daattali/beautiful-jekyll
+remote_theme: daattali/beautiful-jekyll
 # remote_theme: cotes2020/jekyll-theme-chirpy
 # remote_theme: TaylanTatli/Ramme
 # remote_theme: abhinavs/moonwalk
 # remote_theme: riggraz/no-style-please
 # remote_theme: cotes2020/jekyll-theme-chirpy
 # remote_theme: cyevgeniy/jekyll-true-minimal
-remote_theme: pages-themes/midnight
+# remote_theme: pages-themes/midnight
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
