@@ -32,7 +32,8 @@ github_username: chriklev
 # theme: minima
 # remote_theme: daattali/beautiful-jekyll
 # remote_theme: cotes2020/jekyll-theme-chirpy
-remote_theme: daviddarnes/garth
+# remote_theme: daviddarnes/garth
+remote_theme: tcbutler320/jek
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
