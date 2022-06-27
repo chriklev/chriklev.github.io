@@ -18,26 +18,31 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Christoffer Kleven Berg
+title: KB's blog
+tagline: En samling av mine tanker og prosjekter.
+description: Min hjemmeside
+
+author:
+  name: Christoffer Kleven Berg
+  url: https://www.christofferkb.com
+
 email: cklevenb@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+github_username: chriklev
+
 # baseurl: "/chriklev.github.io" # the subpath of your site, e.g. /blog
 url: "https://chriklev.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: chriklev
 
 # Build settings
 # theme: minima
-remote_theme: daattali/beautiful-jekyll
+# remote_theme: daattali/beautiful-jekyll
 # remote_theme: cotes2020/jekyll-theme-chirpy
 # remote_theme: TaylanTatli/Ramme
 # remote_theme: abhinavs/moonwalk
 # remote_theme: riggraz/no-style-please
 # remote_theme: cotes2020/jekyll-theme-chirpy
 # remote_theme: cyevgeniy/jekyll-true-minimal
-# remote_theme: pages-themes/midnight
+remote_theme: vfvong/jekyll-theme-tao
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

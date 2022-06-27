@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Velkommen til min hjemmeside"
+title: "Christoffer Kleven Berg"
 ---
 
 ## Ja vi liker
