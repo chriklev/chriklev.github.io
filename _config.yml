@@ -32,6 +32,8 @@ github_username: chriklev
 # baseurl: "/chriklev.github.io" # the subpath of your site, e.g. /blog
 url: "https://chriklev.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
+google_analytics: G-321102544
+
 categories_path: /categories/
 
 # Build settings
