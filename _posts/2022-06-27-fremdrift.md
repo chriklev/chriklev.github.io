@@ -2,9 +2,9 @@
 layout: post
 title: Drivkraft
 author: Christoffer Kleven Berg
-categories: rcbåt
+categories: RC
 math: true
-image: /drivkraft_blueprint.jpg
+image: img/drivkraft_blueprint.jpg
 date: 2022-06-26
 ---
 
@@ -20,16 +20,16 @@ Hvor stor motor man trenger kommer an på hvor stor båt man har. Flere kilder e
 
 KV betyr rpm/V, altså turtall per volt. KV ratingen bestemmer hvor mye spenning motoren trenger for å nå et ønsket turtall når den ikke er under belastning. En motor med Ø36mm burde ligge på rundt 40000rpm og standard LiPo batterier har maksimalt 4.2V per celle. Med utgangspunkt i det får vi følgende alternativer:
 
-| Celler | Spenning $[\text{V}]$ | KV $[\frac{\text{rpm}}{\text{V}}]$ |
-| -----: | --------------------: | ---------------------------------: |
-|      1 |                   4.2 |                               9500 |
-|      2 |                   8.4 |                               4800 |
-|      3 |                  12.6 |                               3200 |
-|      4 |                  16.8 |                               2400 |
-|      5 |                  21.0 |                               1900 |
-|      6 |                  25.2 |                               1600 |
+| Antall celler | Spenning \\([\text{V}]\\) | KV \\([\frac{\text{rpm}}{\text{V}}]\\) |
+| ------------- | ------------------------: | -------------------------------------: |
+| 1             |                       4.2 |                                   9500 |
+| 2             |                       8.4 |                                   4800 |
+| 3             |                      12.6 |                                   3200 |
+| 4             |                      16.8 |                                   2400 |
+| 5             |                      21.0 |                                   1900 |
+| 6             |                      25.2 |                                   1600 |
 
-_Her er det brukt at $KV = \frac{\omega}{U}$ hvor $\omega$ er rotasjonshastighet og $U$ er spenning._
+Her er det brukt at \\(KV = \frac{\omega}{U}\\) hvor \\(\omega\\) er rotasjonshastighet og \\(U\\) er spenning.
 
 ### Maks strøm
 
@@ -46,17 +46,17 @@ Som nevnt ovenfor, er ytelsen til motoren i stor grad begrenset av varmedannelse
 ## Motorvalg
 
 | Motor Spec      |
-| --------------- | ------: |
-| Motor Type      |    2948 |
-| KV              |  3000KV |
-| Max Amps        |     55A |
-| Max Voltage     |     18V |
-| Max Power       |   1000W |
-| Weight          |    145g |
-| No load current |    1.5A |
-| Max RPM         |     60K |
+| --------------- | ------- |
+| Motor Type      | 2948    |
+| KV              | 3000KV  |
+| Max Amps        | 55A     |
+| Max Voltage     | 18V     |
+| Max Power       | 1000W   |
+| Weight          | 145g    |
+| No load current | 1.5A    |
+| Max RPM         | 60K     |
 | Motor shaft     | 3.175mm |
-| Banana plug     |   4.0mm |
+| Banana plug     | 4.0mm   |
 
 | ESC Spec      |
 | ------------- | ---------------- |
