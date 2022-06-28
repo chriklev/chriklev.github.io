@@ -1,6 +1,6 @@
 ---
 layout: archive
 type: categories
-title: Postarkiv etter kategori
+title: Kattegorigruppert arkiv
 permalink: /categories/
 ---

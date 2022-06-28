@@ -25,9 +25,8 @@ description: Min hjemmeside
 author:
   name: Christoffer Kleven Berg
   url: https://www.christofferkb.com
-
-email: cklevenb@gmail.com
-github_username: chriklev
+  email: cklevenb@gmail.com
+  github_username: chriklev
 
 # baseurl: "/chriklev.github.io" # the subpath of your site, e.g. /blog
 url: "https://chriklev.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,6 +34,8 @@ url: "https://chriklev.github.io/" # the base hostname & protocol for your site,
 google_analytics: G-5L4W2YYK6E
 
 categories_path: /categories/
+
+site.lang: no
 
 # Build settings
 # theme: minima
