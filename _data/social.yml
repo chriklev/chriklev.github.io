@@ -1,6 +1,9 @@
 - title: Email
-  url: cklevenb@gmail.com
+  url: mailto:cklevenb@gmail.com
   icon: fas fa-envelope
 - title: GitHub
   url: https://github.com/chriklev
   icon: fab fa-github
+- title: Linkedin
+  url: https://www.linkedin.com/in/christoffer-kleven-berg-787b6462
+  icon: fab fa-linkedin

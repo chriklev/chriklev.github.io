@@ -2,5 +2,7 @@
   url: /
 - title: 🧍 Om meg
   url: /about
+- title: 📦 Kategorier
+  url: /categories
 - title: 📙 Arkiv
-  url: /archive.md
+  url: /archive

@@ -6,7 +6,6 @@ categories: rcbåt
 math: true
 image: /drivkraft_blueprint.jpg
 date: 2022-06-26
-last_modified_at: 2022-06-28 22:42:00 +0200
 ---
 
 # Motor
