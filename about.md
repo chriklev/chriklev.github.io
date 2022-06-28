@@ -4,4 +4,4 @@ title: Om meg
 permalink: /about/
 ---
 
-Jeg heter Christoffer og her er litt om meg
+Jeg heter Christoffer! Her skal det stå mer om meg etterhvert.
